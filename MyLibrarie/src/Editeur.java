@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
 
+//table1place2 was here
 public class Editeur {
 	
 	private String Nom;
