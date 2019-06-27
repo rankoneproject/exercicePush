@@ -8,6 +8,8 @@ import javax.swing.JOptionPane;
 public class Editeur {
 	//je supprime tout 
 	
+	// je rajoute tout FABBBBBBBBBBBBBBBBBBBBBB
+	
 	private String Nom;
 	private String Code_postal;
 	private String Code_editeur;
