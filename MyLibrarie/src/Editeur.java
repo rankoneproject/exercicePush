@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
 public class Editeur {
-	//test
-
+	//test Fab
+	private String Nom;
 	private String Code_postal;
 	private String Code_editeur;
 	private String Adresse;
