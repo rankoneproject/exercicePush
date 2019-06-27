@@ -18,6 +18,8 @@ public class Editeur {
 
 	//test Quentin yes
 	
+	//fuck les conflits 
+	
 	private String Nom;
 	private String Code_postal;
 	private String Code_editeur;
