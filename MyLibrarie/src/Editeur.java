@@ -6,19 +6,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
 public class Editeur {
-	//test Fab vote pour pas de conflic
-
-	//test sansan va créer un conflit
-
-
-	//test ju conflit !!!
-
-	//test ju (^_^)
-
-
-	//test Quentin yes
-	
-	//fuck les conflits 
+	//je supprime tout 
 	
 	private String Nom;
 	private String Code_postal;
