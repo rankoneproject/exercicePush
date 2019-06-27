@@ -8,7 +8,11 @@ import javax.swing.JOptionPane;
 public class Editeur {
 	//je supprime tout 
 	
+
 	//test cinflit avec fab
+
+	// je rajoute tout FABBBBBBBBBBBBBBBBBBBBBB
+
 	
 	private String Nom;
 	private String Code_postal;
