@@ -7,6 +7,7 @@ import javax.swing.JOptionPane;
 
 public class Editeur {
 	//test Fab
+	//test ju
 	private String Nom;
 	private String Code_postal;
 	private String Code_editeur;
